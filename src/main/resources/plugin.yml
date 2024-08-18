@@ -1,0 +1,4 @@
+name: WorldGenerator
+version: '${project.version}'
+main: me.leonrobi.worldgenerator.WorldGenerator
+api-version: '1.21'
