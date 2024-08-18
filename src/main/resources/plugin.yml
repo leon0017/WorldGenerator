@@ -1,4 +1,8 @@
 name: WorldGenerator
-version: '${project.version}'
+version: '${version}'
 main: me.leonrobi.worldgenerator.WorldGenerator
 api-version: '1.21'
+
+commands:
+  chunkgenlatency:
+    permission: worldgenerator.chunkgenlatency

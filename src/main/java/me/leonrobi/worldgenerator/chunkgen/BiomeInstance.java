@@ -7,7 +7,7 @@ import net.minecraft.world.level.biome.Biome;
 public record BiomeInstance(
         BiomeOptions biomeOptions,
         Holder<Biome> holder,
-
+        WorldInstance worldInstance
 ) {
 
 }
